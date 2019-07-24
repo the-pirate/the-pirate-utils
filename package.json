@@ -4,6 +4,7 @@
     "description": "A general-purpuse javascript utils lib",
     "main": "./src/index.js",
     "author": "trickstival <trick_stival@hotmail.com>",
+    "repository": "https://github.com/the-pirate/the-pirate-utils",
     "license": "MIT",
     "scripts": {
         "test": "jest",
