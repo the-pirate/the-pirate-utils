@@ -8,6 +8,7 @@
     "scripts": {
         "test": "jest",
         "dev": "jest --watchAll",
+        "lint": "eslint --color .",
         "build": "webpack"
     },
     "contributors": [
@@ -20,8 +21,12 @@
         "@babel/core": "^7.4.3",
         "@babel/preset-env": "^7.4.3",
         "babel-jest": "^24.7.1",
+        "eslint": "^6.1.0",
         "jest": "^24.7.1",
         "webpack": "^4.30.0",
         "webpack-cli": "^3.3.0"
+    },
+    "dependencies": {
+        "eslint-plugin-jest": "^22.13.6"
     }
 }
