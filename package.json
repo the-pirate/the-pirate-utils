@@ -29,5 +29,13 @@
     },
     "dependencies": {
         "eslint-plugin-jest": "^22.13.6"
-    }
+    },
+    "keywords": [
+        "utils",
+        "pirate",
+        "dom",
+        "numeric",
+        "general",
+        "string"
+    ]
 }
