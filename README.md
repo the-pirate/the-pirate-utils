@@ -73,8 +73,8 @@ import { string as strPi } from 'the-pirate'
 strPi.isURL('http://google.com') // true
 strPi.isURL('this is not an url') // false
 strPi.interpol('Hello', 'World') // 'Hello World'
-strPi.toSnakeCase('Hello World')//hello_world
-strPi.toSnakeCase('HelloWórld')//hello_wrld
+strPi.toSnakeCase('Hello World')// hello_world
+strPi.toSnakeCase('HelloWórld') // hello_wrld
 
 ```
 
