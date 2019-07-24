@@ -1,4 +1,4 @@
-import * as pirate from './'
+import * as pirate from '../src'
 
 describe('Truthy join', () => {
     it('should ignore falsy values between strings', () => {

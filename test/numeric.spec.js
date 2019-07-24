@@ -1,4 +1,4 @@
-import { numeric as numPyrate } from './'
+import { numeric as numPyrate } from '../src'
 
 describe('uuidv4', () => {
     it('should be different when invoked two times in a row', () => {
