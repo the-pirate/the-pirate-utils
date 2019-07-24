@@ -1,6 +1,6 @@
 {
     "name": "the-pirate",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "description": "A general-purpuse javascript utils lib",
     "main": "./src/index.js",
     "author": "trickstival <trick_stival@hotmail.com>",
