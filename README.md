@@ -43,6 +43,7 @@ dom.scrollTo('.parent') // scrolls to parent
 ```
 
 ## Numeric utils
+
 ```js
 import { numeric as numPyrate } from 'the-pirate'
 
@@ -66,6 +67,7 @@ numPyrate.interval(10, 50, 5) // [10, 15, 20, 25, ..., 50]
 ```
 
 ## String examples
+
 ```js
 import { string as strPi } from 'the-pirate'
 strPi.isURL('http://google.com') // true
@@ -77,6 +79,7 @@ strPi.toSnakeCase('HelloWórld')//hello_wrld
 ```
 
 ## Color examples
+
 ```js
 import { color } from 'the-pirate'
 // r, g, b
